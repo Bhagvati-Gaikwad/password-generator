@@ -9,11 +9,7 @@ A simple Python-based password generator. Generates secure, random passwords acc
 - [Features](#features)  
 - [Prerequisites](#prerequisites)  
 - [Installation & Usage](#installation--usage)  
-- [Configuration](#configuration)  
-- [Examples](#examples)  
-- [How It Works](#how-it-works)  
-- [Contributing](#contributing)  
-- [License](#license)  
+
 
 ---
 
